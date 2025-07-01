@@ -14,12 +14,6 @@ Aplicación de escritorio construida con Python y Tkinter que permite convertir 
 
 ---
 
-## 📸 Captura de pantalla
-
-(Agrega aquí una imagen de la app funcionando)
-
----
-
 ## 🚀 Requisitos
 
 - Python 3.8 o superior
